@@ -57,7 +57,7 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 
 <p>
   <a href="https://www.linkedin.com/in/devadhaarini-d-155a0a2b7/">
-      <img src="https://img.shields.io/badge/LinkedIn-Nandakesore%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Devadhaarini%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="mailto:nandakesorej@gmail.com">
