@@ -65,7 +65,7 @@ I enjoy combining **analytical thinking with creativity** through programming, d
   </a>
 
   <a href="https://leetcode.com/u/DhaariniDD/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-DevadhaariniD-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
 </p>
