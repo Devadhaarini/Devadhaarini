@@ -38,7 +38,6 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 - Fusion 360
 - Microsoft Excel (Learning)
 - TensorFlow
-- 
 - Git & GitHub
 
 ---
