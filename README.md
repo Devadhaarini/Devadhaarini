@@ -60,17 +60,14 @@ I enjoy combining **analytical thinking with creativity** through programming, d
       <img src="https://img.shields.io/badge/LinkedIn-Devadhaarini%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="mailto:nandakesorej@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nandakesorej@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:dhaarinidd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dhaarinidd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/u/Nandakesore_Jaisankar/">
+  <a href="https://leetcode.com/u/DhaariniDD/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
-  <a href="https://www.hackerrank.com/profile/nandakesorejais1">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
 </p>
 
 ---
